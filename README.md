@@ -369,15 +369,3 @@ Finds the optimal sampling instant within each symbol period by minimizing the t
 Corrects residual phase rotation using a 4th-order phase-locked loop, matching the 4-fold rotational symmetry of the inner constellation points A, B, C, D.
 
 ---
-
-## Author
-
-**Manvitha**
-Course: EE332
-Date: April 2026
-
----
-
-## License
-
-This project is submitted as part of coursework for EE332. All flowgraphs and scripts are original work unless otherwise noted.
